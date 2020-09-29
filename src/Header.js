@@ -22,9 +22,9 @@ function Header() {
                   <div class="col-md-4 col-sm-4 col-2 p-2">
                      <div class="socialIcon text-right">
                         
-                           <span><a href="#" class=""><img src="./assets/icons/facebook.png" alt=""/></a></span>&nbsp;&nbsp;
-                           <span><a href="#" class=""><img src="./assets/icons/instagram.png" alt=""/></a></span>&nbsp;&nbsp;&nbsp;
-                           <span><a href="#" class=""><img src="./assets/icons/LinkedIn.png" alt=""/></a></span>
+                           <span><a href="#" class=""><img src="./spiderIndia/assets/icons/facebook.png" alt=""/></a></span>&nbsp;&nbsp;
+                           <span><a href="#" class=""><img src="./spiderIndia/assets/icons/instagram.png" alt=""/></a></span>&nbsp;&nbsp;&nbsp;
+                           <span><a href="#" class=""><img src="./spiderIndia/assets/icons/LinkedIn.png" alt=""/></a></span>
                        
                      </div>
                   </div>
